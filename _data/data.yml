@@ -29,7 +29,7 @@ sidebar:
         level: Native
         
       - idiom: Spanish
-        level: Absolute Begginer!
+        level: Absolute Beginner!
 
     interests:
       - item: Skiing
@@ -49,114 +49,108 @@ career-profile:
     summary: |
       Responsible for delivering complex, multi-company, multi-team, 
       million-dollar projects on Azure.  I have worked with media partners 
-      and customers for 3 years in Microsoft. As a Senior Software Engineer 
+      and customers for over 4 years in Microsoft. As a Senior Software Engineer 
       at Microsoft I engage with Microsoft partners to ensure 
       cloud-solutions are technically feasible and delivered to the delight
       of our customers. I lead engagements with the customer, starting with 
       triaging the engagement, defining technical requirements, building the 
-      team, and developing the code and technology for the solution. 
+      team, and developing the code and technology for the solution.
 
       M.Sc. and first class honours Electronic and Computer Engineering 
       from Trinity College Dublin.
 
 education:
     - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+      university: Trinity College Dublin
+      time: 2003 - 2004
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        Networks and Distributed Systems (NDS)focused on technical skills 
+        aimed at developing distributed computer systems, however a strong
+        business and inter-personal communication element was also present. 
+        This was achieved with the aid of outside venture capitalist input
+        and multiple presentations to external visitors.
 
-          - Bullet point
-          - Bullet point
-
-    - degree: BSc in Applied Mathematics
+    - degree: BA, BAI in Electronic and Computer Engineering
       university: Bristol University
-      time: 2007 - 2011
+      time: 1999 - 2003
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+        Awarded first class honours in Electronic and Computer Engineering. 
+        Final project focused on visualizing ad hoc networks. Book prizes 
+        (Java programming, digital logic) and entrance exhibition 
+        (scored above 555 points in the Leaving Cert) awarded as part of this degree.
 
 experiences:
-    - role: Lead Developer
+    - role: Seniore Software Engineer
       time: 2015 - Present
-      company: Startup Hubs, San Francisco
+      company: Microsoft, London, UK
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        Working with Microsoft partners I am responsible for developing and deploying
+        high quality, commercially available solutions on Azure from top partners 
+        globally. Key to this role is identifying platform issues and providing 
+        technical feedback to Azure Engineering teams alongside market insights to
+        ensure platform developments and changes are prioritised effectively. 
+        Clear communications with technical and non-technical roles is required, 
+        this is to ensure that executives and technology leads understand and agree 
+        the plans developed internally and externally.
 
-          - Bullet point
-          - Bullet point
+    - role: Senior Salesforce Engineer
+      time: 2013 - 2015
+      company: ClaimVantage, Dublin, Ireland
+      details: |
+        As lead for one of ClaimVantage’s products I was involved in the complete 
+        lifecycle of enterprise software, including requirements, architecture, 
+        and implementation. Force.com is a challenging development environment 
+        with resource and platform constraints providing obstacles to solutions; 
+        working within these constraints ensures interesting solutions must be found.
+        
+        Technologies used include APEX, Java, JavaScript, CSS, JSON.
 
-    - role: Senior Software Engineer
+    - role: Board Member and Technical Lead
       time: 2014 - 2015
-      company: Google, London
+      company: Fagel Maps, Trinity College Dublin, Ireland
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        A privately funded research project following on from the successful 
+        Down Survey Maps project in Trinity College Dublin, the Fagel project 
+        is working to make the Fagel collection available and accessible to the 
+        public and researchers. As a board member I detailed the technical 
+        aspects of the proposal, which attracted private funding via an American
+        donor. Additionally I provide direction for the technical implementations
+        and in hiring for technical roles.
 
-          - Bullet point
-          - Bullet point
-
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: Research Software Engineer
+      time: 2011 - 2013
+      company: Trinity College Dublin, Ireland
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        Co-ordinating international partners, designing the overarching system 
+        architecture, and implementing system components were all part of my 
+        role on the EU funded CULTURA project. The development and consumption
+        of RESTful APIs was key in this project, as well as on a second project 
+        that I also worked on, The (GIS) Down Survey Project. 
+        
+        Technologies used include PHP, Ruby, HTML, Drupal, CSS, Javascript, Google Maps.
 
-          - Bullet point
-          - Bullet point
+    - role: Founder
+      time: 2010 - 2012
+      company: Hit The Road, Dublin, Ireland
+      details: |    
+        Hit The Road is a website that presents a single point to search 
+        across DART, LUAS and Dublin Bus for Dublin, Ireland. Hit The Road
+        is currently working with Enterprise Ireland and exporting software
+        to the UK. 
+        
+        Technologies used include Ruby on Rails, JSON, XAML, Javascript, Android development.
+
 
 projects:
-    title: Projects
+    title: Presentations
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      I regularly discuss completed projects at events, some are highlighted below, including
+      videos to these talks where available.
 
     assignments:
-      - title: Velocity
+      - title: Teradici webinar with Nvidia, Jellyfish Pictures, and Microsoft
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "Secure content creation in the cloud."
 
 publications:
     title: Publications
@@ -201,4 +195,3 @@ skills:
         level: 60%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
