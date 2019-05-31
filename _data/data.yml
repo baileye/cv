@@ -91,6 +91,7 @@ experiences:
         for junior staff and students. As a senior nurse, on occasion I was the team leader. 
         I volunteered to be a “superuser” when we started using new software specific to ICU, giving medical and nursing staff
         training to use it correctly. 
+        
         Achievements: I collaborated in a research study to implement a new assessment tool for confusion and delirium in ICU patients.
         Identifying delirium earlier reduced the medication given to patients and improved patient care.
 
@@ -121,31 +122,22 @@ experiences:
 
 projects:
     title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
 
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Introduction to HTML
+        tagline: "Codecademy"
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Learn CSS
+        tagline: "Codecademy"
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: Learn Ruby
+        tagline: "Codecademy"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: Introduction to Ruby
+        tagline: "Le Wagon (in-person course)"
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: Community meetups
+        tagline: "Attended meetups and talks about career change into technology, given by Makers Academy"
 
 publications:
     title: Publications
