@@ -13,7 +13,6 @@ sidebar:
 
     # Sidebar links
     email: mariluz.herrera@gmail.com
-    phone: 07593367092
     website: mariluzherrera.github.io/cv/ #do not add http://
     linkedin: mariluzherrera
     github: mariluzherrera
@@ -62,22 +61,23 @@ education:
       time: 2004
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Liver Transplant Coordinator
+      time: September 2017 - Present
+      company: Royal Free Hospital, London
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        I am responsible for end-to-end liver transplants. I am part of a team that assesses 
+        and qualifies patients for liver transplants, this can mean making life and death decisions. 
+        Once patients are on the transplant list, I teach them and their families how to manage their liver 
+        disease and post-op care. When a liver is offered for transplant I coordinate a team of over 20 people
+        to ensure that the liver is retrieved in the hospital of origin, matched to an appropriate patient, 
+        a surgical and medical team are ready in theatre and ICU, and the patient and the organ are transported 
+        to the hospital. This coordination takes place on a tight timeline which requires I anticipate and mitigate problems.
+        Other responsibilities include carrying out monthly and annual audits of our database and organizing 
+        teaching sessions for medical and nursing staff. This role has 24-hour on-call shifts.
+        
+Achievements: I collaborated in a campaign throughout the hospital to promote organ donation, encouraging staff
+to identify and refer potential donors. We managed to increase the number of liver transplants by over 20% in one year. 
 
-          - Bullet point
-          - Bullet point
 
     - role: Senior Software Engineer
       time: 2014 - 2015
