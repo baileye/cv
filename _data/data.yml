@@ -40,13 +40,13 @@ career-profile:
       I am used to working in fast-paced, busy environments and dealing with stressful situations.
 
 education:
-    - degree: Mentorship and Competency Based Education
+    - degree: Mentorship and Competency Based Education (postraduate course)
       university: South Bank University, London
       time: 2017
       details: |
         Postgraduate course that enables me to teach and mentor professionals and students.
 
-    - degree: Intensive Care Nursing
+    - degree: Intensive Care Nursing (postgraduate course)
       university: University of Greenwich, London
       time: 2016
       details: |
@@ -138,26 +138,10 @@ projects:
 
       - title: Community meetups
         tagline: "Attended meetups and talks about career change into technology, given by Makers Academy"
+        
+      - title: GitHub
+        tagline: "This online CV is on my GitHub repository"
 
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-
-    papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
