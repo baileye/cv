@@ -79,31 +79,29 @@ experiences:
         to identify and refer potential donors. We managed to increase the number of liver transplants by over 20% in one year. 
 
 
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Senior ICU nurse
+      time: October 2014 - September 2017
+      company: Royal Free Hospital, London
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        Responsible for the care of ICU patients, covering liver, major vascular surgery, cardiac, respiratory and renal conditions,
+        working both independently and as part of a multidisciplinary team. I requested further specialized training to work 
+        in the High-Level Isolation Unit, this unit is the only one of its kind in the UK. During my period in ICU 
+        I was responsible for configuration and use of complex medical equipment such as monitors, ventilators, IV pumps,
+        cardiac devices and replacement therapy devices. I collaborated in preparing teaching sessions and was a mentor 
+        for junior staff and students. As a senior nurse, on occasion I was the team leader. 
+        I volunteered to be a “superuser” when we started using new software specific to ICU, giving medical and nursing staff
+        training to use it correctly. 
+        Achievements: I collaborated in a research study to implement a new assessment tool for confusion and delirium in ICU patients.
+        Identifying delirium earlier reduced the medication given to patients and improved patient care.
 
-          - Bullet point
-          - Bullet point
 
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: Dialysis Nurse
+      time: April 2013 - October 2014
+      company: Royal Free Hospital, London
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+        I provided individualised dialysis care to patients with chronic kidney disease, responsible for setting up 
+        and managing the dialysis machines. I gave them education about lifestyle as renal patients. 
+        I worked individually and as part of a specialist team. I was also responsible for the pharmacy stock and orders.
 
 projects:
     title: Projects
