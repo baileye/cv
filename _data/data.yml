@@ -103,21 +103,21 @@ experiences:
         and managing the dialysis machines. I gave them education about lifestyle as renal patients. 
         I worked individually and as part of a specialist team. I was also responsible for the pharmacy stock and orders.
         
-     - role: Dialysis Nurse
-       time: June 2011 - September 2012
-       company: La Paz Hospital - Infanta Sofia Hospital, Madrid
-       details: |
-         Similar duties as described above
+    - role: Dialysis Nurse
+      time: June 2011 - September 2012
+      company: La Paz Hospital - Infanta Sofia Hospital, Madrid
+      details: |
+        Similar duties as described above
          
-#     - role: Registered Nurse (Recovery and A&E)
-#       time: July 2008 - July 2010
-#       company: La Moraleja Hospital / Mostoles Hospital, Madrid
-#       details: |
-#         In Recovery I admitted patients right after surgery, for the immediate post-anesthesia period, 
-#         monitoring them and making sure they were stable and progressing well until they were fit for discharge to the ward.
-#         In A&E I was responsible of admission of patients, prioritising those who needed to be seen first (triage), 
-#         assessing them in collaborations with the medical team and providing treatment as needed. 
-#         I also managed emergencies and “crash calls” whenever they happened, working as part of a team.
+    - role: Registered Nurse (Recovery and A&E)
+      time: July 2008 - July 2010
+      company: La Moraleja Hospital / Mostoles Hospital, Madrid
+      details: |
+        In Recovery I admitted patients right after surgery, for the immediate post-anesthesia period, 
+        monitoring them and making sure they were stable and progressing well until they were fit for discharge to the ward.
+        In A&E I was responsible of admission of patients, prioritising those who needed to be seen first (triage), 
+        assessing them in collaborations with the medical team and providing treatment as needed. 
+        I also managed emergencies and “crash calls” whenever they happened, working as part of a team.
 
 projects:
     title: Projects
