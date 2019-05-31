@@ -148,22 +148,22 @@ skills:
 
     toolset:
       - name: Communication
-        level: 90%
+        level: 93%
 
       - name: Team work
         level: 90%
 
       - name: Problem solving
-        level: 80%
+        level: 82%
 
       - name: Leadership
         level: 70%
 
       - name: HTML & CSS
-        level: 20%
+        level: 18%
 
       - name: Git
-        level: 15%
+        level: 12%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    
