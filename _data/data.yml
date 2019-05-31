@@ -14,7 +14,7 @@ sidebar:
     # Sidebar links
     email: mariluz.herrera@gmail.com
     phone: 07593367092
-    website: blog.webjeda.com #do not add http://
+    website: mariluzherrera.github.io/cv/ #do not add http://
     linkedin: mariluzherrera
     github: mariluzherrera
     
@@ -41,31 +41,25 @@ career-profile:
       I am used to working in fast-paced, busy environments and dealing with stressful situations.
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: Mentorship and Competency Based Education
+      university: South Bank University, London
+      time: 2017
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        Postgraduate course that enables me to teach and mentor professionals and students.
 
-          - Bullet point
-          - Bullet point
-
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: Intensive Care Nursing
+      university: University of Greenwich, London
+      time: 2016
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+       Postgraduate course to become a specialist in ICU nursing, including theory and practice.
+       
+    - degree: BSc in Nursing
+      university: Complutense University of Madrid
+      time: 2008
+      
+    - degree: BSc in Teaching
+      university: Complutense University of Madrid
+      time: 2004
 
 experiences:
     - role: Lead Developer
