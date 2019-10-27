@@ -40,7 +40,7 @@ career-profile:
       I am used to working in fast-paced, busy environments and dealing with stressful situations.
 
 education:
-  - degree: Full-stack developer
+    - degree: Full-stack developer
       university: Le Wagon Academy, London
       time: 2019
       details: |
