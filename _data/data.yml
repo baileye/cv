@@ -16,7 +16,7 @@ sidebar:
     website: mariluzherrera.github.io/cv/ #do not add http://
     linkedin: mariluzherrera
     github: mariluzherrera
-    
+
     languages:
       - idiom: Spanish
         level: Native
@@ -32,15 +32,21 @@ sidebar:
 career-profile:
     title: About me
     summary: |
-      Specialist nurse in one of the largest NHS hospitals in London, 
-      working towards a career change into technology. Currently taking 
-      online coding courses. I am pro-active, curious and self-motivated. 
-      Strong team player with proven coordination and management skills. 
-      I enjoy mentoring and teaching junior staff and students. 
+      Specialist nurse in one of the largest NHS hospitals in London,
+      working towards a career change into technology. Currently taking
+      online coding courses. I am pro-active, curious and self-motivated.
+      Strong team player with proven coordination and management skills.
+      I enjoy mentoring and teaching junior staff and students.
       I am used to working in fast-paced, busy environments and dealing with stressful situations.
 
 education:
-    - degree: Mentorship and Competency Based Education (postraduate course)
+  - degree: Full-stack developer
+      university: Le Wagon Academy, London
+      time: 2019
+      details: |
+        Full-time coding bootcamp
+
+    - degree: Mentorship and Competency Based Education (postgraduate course)
       university: South Bank University, London
       time: 2017
       details: |
@@ -51,11 +57,11 @@ education:
       time: 2016
       details: |
        Postgraduate course to become a specialist in ICU nursing, including theory and practice.
-       
+
     - degree: BSc in Nursing
       university: Complutense University of Madrid
       time: 2008
-      
+
     - degree: BSc in Teaching
       university: Complutense University of Madrid
       time: 2004
@@ -65,18 +71,18 @@ experiences:
       time: September 2017 - September 2019
       company: Royal Free Hospital, London
       details: |
-        I am responsible for end-to-end liver transplants. I am part of a team that assesses 
-        and qualifies patients for liver transplants, this can mean making life and death decisions. 
-        Once patients are on the transplant list, I teach them and their families how to manage their liver 
+        I am responsible for end-to-end liver transplants. I am part of a team that assesses
+        and qualifies patients for liver transplants, this can mean making life and death decisions.
+        Once patients are on the transplant list, I teach them and their families how to manage their liver
         disease and post-op care. When a liver is offered for transplant I coordinate a team of over 20 people
-        to ensure that the liver is retrieved in the hospital of origin, matched to an appropriate patient, 
-        a surgical and medical team are ready in theatre and ICU, and the patient and the organ are transported 
+        to ensure that the liver is retrieved in the hospital of origin, matched to an appropriate patient,
+        a surgical and medical team are ready in theatre and ICU, and the patient and the organ are transported
         to the hospital. This coordination takes place on a tight timeline which requires I anticipate and mitigate problems.
-        Other responsibilities include carrying out monthly and annual audits of our database and organizing 
+        Other responsibilities include carrying out monthly and annual audits of our database and organizing
         teaching sessions for medical and nursing staff. This role has 24-hour on-call shifts.
-        
+
         Achievements: I collaborated in a campaign throughout the hospital to promote organ donation, encouraging staff
-        to identify and refer potential donors. We managed to increase the number of liver transplants by over 20% in one year. 
+        to identify and refer potential donors. We managed to increase the number of liver transplants by over 20% in one year.
 
 
     - role: Senior ICU nurse
@@ -84,14 +90,14 @@ experiences:
       company: Royal Free Hospital, London
       details: |
         Responsible for the care of ICU patients, covering liver, major vascular surgery, cardiac, respiratory and renal conditions,
-        working both independently and as part of a multidisciplinary team. I requested further specialized training to work 
-        in the High-Level Isolation Unit, this unit is the only one of its kind in the UK. During my period in ICU 
+        working both independently and as part of a multidisciplinary team. I requested further specialized training to work
+        in the High-Level Isolation Unit, this unit is the only one of its kind in the UK. During my period in ICU
         I was responsible for configuration and use of complex medical equipment such as monitors, ventilators, IV pumps,
-        cardiac devices and replacement therapy devices. I collaborated in preparing teaching sessions and was a mentor 
-        for junior staff and students. As a senior nurse, on occasion I was the team leader. 
+        cardiac devices and replacement therapy devices. I collaborated in preparing teaching sessions and was a mentor
+        for junior staff and students. As a senior nurse, on occasion I was the team leader.
         I volunteered to be a “superuser” when we started using new software specific to ICU, giving medical and nursing staff
-        training to use it correctly. 
-        
+        training to use it correctly.
+
         Achievements: I collaborated in a research study to implement a new assessment tool for confusion and delirium in ICU patients.
         Identifying delirium earlier reduced the medication given to patients and improved patient care.
 
@@ -100,24 +106,24 @@ experiences:
       time: April 2013 - October 2014
       company: Royal Free Hospital, London
       details: |
-        I provided individualised dialysis care to patients with chronic kidney disease, responsible for setting up 
-        and managing the dialysis machines. I gave them education about lifestyle as renal patients. 
+        I provided individualised dialysis care to patients with chronic kidney disease, responsible for setting up
+        and managing the dialysis machines. I gave them education about lifestyle as renal patients.
         I worked individually and as part of a specialist team. I was also responsible for the pharmacy stock and orders.
-        
+
     - role: Dialysis Nurse
       time: June 2011 - September 2012
       company: La Paz Hospital - Infanta Sofia Hospital, Madrid
       details: |
         Similar duties as described above
-         
+
     - role: Registered Nurse (Recovery and A&E)
       time: July 2008 - July 2010
       company: La Moraleja Hospital / Mostoles Hospital, Madrid
       details: |
-        In Recovery I admitted patients right after surgery, for the immediate post-anesthesia period, 
+        In Recovery I admitted patients right after surgery, for the immediate post-anesthesia period,
         monitoring them and making sure they were stable and progressing well until they were fit for discharge to the ward.
-        In A&E I was responsible of admission of patients, prioritising those who needed to be seen first (triage), 
-        assessing them in collaborations with the medical team and providing treatment as needed. 
+        In A&E I was responsible of admission of patients, prioritising those who needed to be seen first (triage),
+        assessing them in collaborations with the medical team and providing treatment as needed.
         I also managed emergencies and “crash calls” whenever they happened, working as part of a team.
 
 projects:
@@ -138,7 +144,7 @@ projects:
 
       - title: Community meetups
         tagline: "Attended meetups and talks about career change into technology, given by Makers Academy"
-        
+
       - title: GitHub
         tagline: "This online CV is on my GitHub repository"
 
@@ -166,4 +172,4 @@ skills:
         level: 12%
 
 footer: >
-    
+
